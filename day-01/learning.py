@@ -69,3 +69,4 @@ print(items[1])
 # Therefore:    
 # items[0] = first item
 # items[1] = second item
+# Day 1 completed and uploaded to GitHub.
